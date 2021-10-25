@@ -1,0 +1,71 @@
+*{margin: 0;padding: 0;box-sizing: border-box; font-family: sans-serif;}
+
+body{
+height: 100vh;
+justify-content: center;
+align-items: center;
+}
+.parrafo{
+    z-index: 1;
+    width: 1347px;
+    height: 1250px;
+    padding: 20px 20px;
+    font-size: 18px;
+    line-height: 1.3;
+    background: #fff;
+    box-shadow: 1px 5px 25px rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo img{
+    width: 310px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+.header{
+    z-index: 1;
+    width: 1349px;
+    height: 80px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.3;
+    box-shadow: 1px 5px 25px rgba(12, 4, 121, 0.45);
+}
+.zapatos {
+    z-index: 1;
+    width: 1347px;
+    height: 250px;
+	background-color: rgb(167, 12, 12);
+	/**background-image: url(img/espaciador.jpg);
+    background-repeat: no-repeat;
+    background-position: center;**/
+    color:rgb(240, 236, 236);
+    font-size: 70;
+    line-height: 1.3;
+}
+
+.parrafo2{
+    z-index: 1;
+    width: 1347px;
+    height: 500px;
+    padding: 20px 20px;
+    font-size: 20px;
+    line-height: 1.3;
+    background: rgb(240, 236, 236);
+    box-shadow: 1px 5px 25px rgba(250, 250, 250, 0.45);
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo2 img{
+    width:"80px";
+    height:"50px";
+    float: left;
+    margin-right: 15px;
+    border-radius: 15px;
+}
+
+.ColorTitulos{
+    color: rgb(0, 0, 0);
+}
